@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "title": "DPIIT Offline Internship Scheme",
+    "category": "Internship",
+    "description": "An offline internship program at the Department for Promotion of Industry and Internal Trade providing exposure to government functioning.",
+    "eligibility": "Engineering/Management students in 3rd or 4th year.",
+    "deadline": "2026-10-30",
+    "apply_link": "https://dpiit.gov.in/"
+  },
+  {
+    "id": 2,
+    "title": "Smart India Hackathon 2026",
+    "category": "Hackathon",
+    "description": "National level hackathon demanding innovative hardware and software solutions to solve real-world problems.",
+    "eligibility": "All enrolled engineering students.",
+    "deadline": "2026-11-01",
+    "apply_link": "https://sih.gov.in/"
+  },
+  {
+    "id": 3,
+    "title": "Pradhan Mantri Kaushal Vikas Yojana",
+    "category": "Government Scheme",
+    "description": "Skill development initiative providing industry-relevant skill training to youth.",
+    "eligibility": "Indian youth looking for skill certification.",
+    "deadline": "2026-12-31",
+    "apply_link": "https://www.pmkvyofficial.org/"
+  },
+  {
+    "id": 4,
+    "title": "ISRO — IIRS External Student Internship",
+    "category": "Internship",
+    "description": "Short-term internship in remote sensing, GIS, geospatial technology and related research.",
+    "eligibility": "Indian citizens pursuing UG/PG/PhD in Science or Technology, or who completed within the last six months; minimum 60% or CGPA 6.32/10.",
+    "deadline": "2026-10-30",
+    "apply_link": "https://www.iirs.gov.in/"
+  },
+  {
+    "id": 5,
+    "title": "MoEFCC Internship Scheme",
+    "category": "Internship",
+    "description": "Government internship involving environmental policy, climate, forestry and sustainability research.",
+    "eligibility": "Eligibility varies by the scheme's prescribed educational qualifications and subject areas; use the official eligibility checker.",
+    "deadline": "2026-12-31",
+    "apply_link": "https://www.myscheme.gov.in/schemes/moefccis"
+  },
+  {
+    "id": 6,
+    "title": "NITI Aayog Internship",
+    "category": "Internship",
+    "description": "Monthly application window for students interested in public policy, economics, technology and research.",
+    "eligibility": "Undergraduate students must have completed or appeared in second-year/fourth-semester exams and secured at least 85% in Class 12.",
+    "deadline": "2026-11-10",
+    "apply_link": "https://workforindia.niti.gov.in/intern/InternshipEntry/homepage.aspx"
+  },
+  {
+    "id": 7,
+    "title": "IIT Bhubaneswar Winter Internship 2026",
+    "category": "Internship",
+    "description": "Short winter research programme across engineering, sciences, management and other disciplines.",
+    "eligibility": "Students enrolled in a degree programme at an academic institution; selection by the relevant department.",
+    "deadline": "2026-11-05",
+    "apply_link": "https://webapps.iitbbs.ac.in/internship-application/"
+  },
+  {
+    "id": 8,
+    "title": "DRDO DRDE Paid Internship",
+    "category": "Internship",
+    "description": "Research internship opportunity in defence-related science and engineering.",
+    "eligibility": "Eligibility depends on the specific DRDE advertisement, degree/branch and academic criteria. Check the official notice before applying.",
+    "deadline": "2026-11-14",
+    "apply_link": "https://drdo.gov.in/drdo/en/offerings/vacancies"
+  },
+  {
+    "id": 9,
+    "title": "AICTE National Internship Portal",
+    "category": "Internship",
+    "description": "Search internships across IT, engineering, business, design, marketing and other fields.",
+    "eligibility": "Varies by internship; check the specific listing for eligible qualifications, branches, year of study, minimum marks and required skills.",
+    "deadline": "Deadline not announced",
+    "apply_link": "https://internship.aicte-india.org/"
+  },
+  {
+    "id": 10,
+    "title": "COLOSSUS 3.0",
+    "category": "Hackathon",
+    "description": "A student hackathon covering AgriTech, FinTech, cybersecurity, HealthTech, hardware/IoT and open innovation. Includes an online idea-screening round and a 24-hour offline finale in Bengaluru. Prize pool: ₹1 lakh+.",
+    "eligibility": "UG and PG students; inter-college teams allowed.",
+    "deadline": "2026-10-26",
+    "apply_link": "https://www.colossus3.tech/"
+  },
+  {
+    "id": 11,
+    "title": "Cyber Hackathon 2026",
+    "category": "Hackathon",
+    "description": "A cybersecurity competition to develop practical defences against digital threats. Teams select a published problem, build a solution and submit their code and demo video.",
+    "eligibility": "Students enrolled at a recognized college or university in India; every member must provide a valid college ID.",
+    "deadline": "2026-10-26",
+    "apply_link": "https://cyberhackathon.bihar.gov.in/"
+  },
+  {
+    "id": 12,
+    "title": "SAARTHI-26",
+    "category": "Hackathon",
+    "description": "A 36-hour hackathon where student teams develop technology solutions to real-world problems. Suitable for both beginners and experienced developers.",
+    "eligibility": "Students currently enrolled in an educational institution anywhere in India.",
+    "deadline": "2026-10-30",
+    "apply_link": "https://saarthi.gehu.ac.in/"
+  },
+  {
+    "id": 13,
+    "title": "INNOVASIA 2026",
+    "category": "Hackathon",
+    "description": "A multi-domain hackathon with themes including FinTech, cybersecurity and blockchain, smart automation, and agriculture and rural development. The initial round involves an idea presentation.",
+    "eligibility": "Undergraduate students from any college or university.",
+    "deadline": "2026-10-30",
+    "apply_link": "https://api.unstop.com/hackathons/innovasia-2026-vasavi-college-of-engineering-vce-hyderabad-1772753"
+  },
+  {
+    "id": 14,
+    "title": "Bits2Wave 2026",
+    "category": "Hackathon",
+    "description": "A hardware-and-software hackathon where teams submit a project idea and presentation before shortlisted teams advance to the final round. Prize pool: ₹60,000.",
+    "eligibility": "Undergraduate students from any college or university.",
+    "deadline": "2026-10-30",
+    "apply_link": "https://api.unstop.com/hackathons/bits2wave-bms-institute-of-technology-and-management-bmsitm-bangalore-1761893"
+  },
+  {
+    "id": 15,
+    "title": "SpectoV National Hackathon — SNH 26",
+    "category": "Hackathon",
+    "description": "An individual-entry competition focused on AI, app development and web development. The organizer advertises ₹5.5 lakh+ in prizes and a potential six-month paid internship for selected performers.",
+    "eligibility": "Check the official rules for detailed age, education and participation conditions.",
+    "deadline": "2026-11-30",
+    "apply_link": "https://snh.hiringspectov.com/"
+  },
+  {
+    "id": 16,
+    "title": "National Scholarship Portal (NSP)",
+    "category": "Government Scheme",
+    "description": "Scholarships for college students, including merit-based and category-specific financial assistance.",
+    "eligibility": "Depends on the scheme, marks, family income, category and course.",
+    "deadline": "2026-10-31",
+    "apply_link": "https://scholarships.gov.in/"
+  },
+  {
+    "id": 17,
+    "title": "AICTE Pragati Scholarship",
+    "category": "Government Scheme",
+    "description": "Financial support for eligible girl students pursuing technical diploma or degree courses.",
+    "eligibility": "Girl students admitted to eligible AICTE-approved institutions; income and family-level conditions apply.",
+    "deadline": "2026-10-31",
+    "apply_link": "https://scholarships.gov.in/"
+  },
+  {
+    "id": 18,
+    "title": "AICTE Swanath Scholarship",
+    "category": "Government Scheme",
+    "description": "Financial assistance for eligible students in specified vulnerable circumstances.",
+    "eligibility": "Includes eligible orphans, students whose parents died due to COVID-19, and wards of Armed Forces/CAPF personnel martyred in action, subject to scheme rules.",
+    "deadline": "2026-10-31",
+    "apply_link": "https://scholarships.gov.in/"
+  },
+  {
+    "id": 19,
+    "title": "National Career Service (NCS)",
+    "category": "Government Scheme",
+    "description": "Search for jobs, career counselling, job fairs and employment-related services.",
+    "eligibility": "Depends on the job or event; opportunities may be available for students and freshers.",
+    "deadline": "Deadline not announced",
+    "apply_link": "https://ncs.gov.in/"
+  },
+  {
+    "id": 20,
+    "title": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "category": "Government Scheme",
+    "description": "Loans for eligible small businesses and micro-enterprises, including certain allied agricultural activities.",
+    "eligibility": "Entrepreneurs establishing or running an eligible micro-enterprise; lender requirements apply.",
+    "deadline": "Deadline not announced",
+    "apply_link": "https://financialservices.gov.in/pradhan-mantri-mudra-yojana-pmmy"
+  },
+  {
+    "id": 21,
+    "title": "PM Vishwakarma",
+    "category": "Government Scheme",
+    "description": "Training, toolkit support, affordable credit and marketing assistance for traditional artisans and craftspeople.",
+    "eligibility": "Adults working in one of the 18 specified traditional trades, subject to scheme conditions.",
+    "deadline": "Check the official portal.",
+    "apply_link": "https://pmvishwakarma.gov.in/"
+  },
+  {
+    "id": 22,
+    "title": "Ayushman Bharat PM-JAY",
+    "category": "Government Scheme",
+    "description": "Eligible families' hospital treatment coverage.",
+    "eligibility": "Based on applicable beneficiary eligibility.",
+    "deadline": "Open",
+    "apply_link": "https://pmjay.gov.in/"
+  },
+  {
+    "id": 23,
+    "title": "Pradhan Mantri Awas Yojana",
+    "category": "Government Scheme",
+    "description": "Housing assistance under the applicable urban or rural scheme.",
+    "eligibility": "Depends on housing status, income and scheme rules.",
+    "deadline": "Open",
+    "apply_link": "https://pmay-urban.gov.in/"
+  },
+  {
+    "id": 24,
+    "title": "PM-KISAN",
+    "category": "Government Scheme",
+    "description": "Income support for eligible farmer families.",
+    "eligibility": "Farmer-family eligibility and exclusion rules apply",
+    "deadline": "Open",
+    "apply_link": "https://pmkisan.gov.in/"
+  }
+
+
+
+
+
+]
